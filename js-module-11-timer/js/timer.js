@@ -52,5 +52,4 @@ const timer = new CountdownTimer({
   selector: "#timer-1",
   targetDate: new Date("march 8, 2020")
 });
-``;
 timer.startTimerDown();
